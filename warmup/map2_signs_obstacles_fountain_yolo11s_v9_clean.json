@@ -1,0 +1,22 @@
+{
+  "class_names": [
+    "turn_left",
+    "turn_right",
+    "go_straight",
+    "no_right_turn",
+    "vehicle",
+    "no_left_turn",
+    "fountain"
+  ],
+  "imgsz": 512,
+  "iou": 0.5,
+  "confidence": {
+    "turn_left": 0.25,
+    "turn_right": 0.25,
+    "go_straight": 0.25,
+    "no_right_turn": 0.25,
+    "vehicle": 0.4,
+    "no_left_turn": 0.25,
+    "fountain": 0.3
+  }
+}
