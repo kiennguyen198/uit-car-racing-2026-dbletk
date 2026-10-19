@@ -6,7 +6,7 @@ Mã nguồn của đội **DBLETK** cho hai vòng **Sơ loại** và **Khởi đ
 
 ## Thành tích
 
-- **Top 6 tại vòng Sơ loại**, trong cuộc thi có **67 đội tham gia**.
+- **Top 6 chung cuộc**, trong cuộc thi có **67 đội tham gia**.
 - Hoàn thành **10/10 checkpoint ở cả hai lượt Sơ loại**.
 - Giành quyền tham dự vòng **Khởi động**.
 
